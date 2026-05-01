@@ -1,5 +1,6 @@
 # Hotmail Checker
 <sub>Discord: @ghostydev404</sub>
+
 [![Download Checker](https://img.shields.io/badge/download%20checker-active-brightgreen?style=for-the-badge&logo=github)](https://github.com/crit43/Hotmail-Checker/releases/download/release/Hotmail_Checker.zip)
 ## Features
 * Multithreaded login attempts for efficient processing.
